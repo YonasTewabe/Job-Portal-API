@@ -42,10 +42,7 @@ Before running the application, make sure you have:
 
 ## ⚙️ Setup & Configuration
 
-1.  **Clone the Repository** and navigate to the backend directory:
-    ```bash
-    cd "Job Backend"
-    ```
+1.  **Clone the Repository** and navigate to the directory.
 
 2.  **Install Dependencies**:
     ```bash
